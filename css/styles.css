@@ -1,0 +1,116 @@
+body {
+	background-color:  white;
+
+}
+
+
+#header-nav {
+border-radius: 0;
+border: 0;
+
+}
+
+.navbar-brand h1 {
+    font-family: 'Spectral', serif;
+    color: red; 
+    font-weight: bolder;
+    font-size: 1.8em;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none; 
+}
+
+
+
+#chicken, #beef, #fish {
+	text-align: left; 
+	border: 3px solid black;	
+	padding: 10px;
+	padding-top: 10px;
+	margin: 10px;
+	margin-left: 10%;
+	width: 80%;
+	line-height: 
+}
+
+#fish {
+	margin-bottom: 30px;
+}
+
+
+
+
+#nav-list {
+
+	margin-top: 10px;
+
+}
+
+
+
+#nav-list a {
+	font-size: 1.5em;
+	font-family: 'Spectral', serif; 
+	color: black;
+	text-align: center; 
+
+
+
+}
+
+#bottom {
+	font-family: 'Spectral', serif;
+	color: blue; 
+	font-size: 18px;
+	margin-bottom: 15px;	
+}
+
+.header-nav {
+	margin-top: 50px;
+}
+
+.navbar-collapse {
+    border-top: 0;
+}
+
+
+.navbar-brand,
+.navbar-nav li a {
+    line-height: 50px;
+    height: 45px;
+    padding-top: 0;
+}
+
+
+.navbar-brand p span {
+   
+   
+}
+
+#nav-list a span {
+	font-size: 2em;
+}
+
+#nav-list a:hover {
+	background: lightblue; 
+}
+
+.navbar-header button.navbar-toggle {
+    clear: both;
+    margin-top: -60px;
+}
+
+.navbar-header button.navbar-toggle,
+.navbar-header .icon-bar {
+    border: 1px solid #61122f;
+}
+
+
+
+
+
+
+
+
+
